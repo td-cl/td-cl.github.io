@@ -9,10 +9,13 @@
   height: 300px;
 }
 .japaneseMaple{
+  height: 200px;
 }
 .amalfiCoast{
+  height: 300px;
 }
 .imageGrid {
 display: grid;
 grid-template-columns: 1fr 1fr;
+row-gap: 10px;
 }
