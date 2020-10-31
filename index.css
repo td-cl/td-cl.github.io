@@ -3,5 +3,11 @@
 }
 
 .colosseum {
-height: 350px;  
+  height: 350px;  
+}
+.agropoli {
+}
+.imageGrid {
+display: grid;
+grid-template-columns: 1fr 1fr;
 }
