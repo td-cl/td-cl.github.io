@@ -3,23 +3,20 @@
 }
 
 .colosseum {
-  height: 350px;
-  justify-self: center;  
+  height: 350px;  
 }
 .agropoli {
   height: 300px;
-  justify-self: center; 
 }
 .japaneseMaple{
   height: 200px;
-  justify-self: center; 
 }
 .amalfiCoast{
   height: 300px;
-  justify-self: center; 
 }
 .imageGrid {
 display: grid;
 grid-template-columns: 1fr 1fr;
 row-gap: 10px;
+justify-items: center;
 }
