@@ -1,27 +1,17 @@
 .title {
   color: steelblue;
   font-family: Georgia;
-  font-size: larger;
+  font-size: 40px;
+  text-align: center;
 }
 
-.colosseum {
-  height: 350px;  
-}
-.agropoli {
-  height: 300px;
-}
-.japaneseMaple{
-  height: 300px;
-}
-.amalfiCoast{
-  height: 300px;
-}
-.cottageSunset{
-  height: 360px;
-}
 .imageGrid {
-display: grid;
-grid-template-columns: 1fr 1fr;
-row-gap: 10px;
-place-items: center;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  place-items: center;
+  margin: 5% 20%;
+}
+.imageGrid img {
+height: 100%;
 }
