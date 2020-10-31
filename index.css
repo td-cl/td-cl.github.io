@@ -13,5 +13,9 @@
   margin: 5% 20%;
 }
 .imageGrid img {
-height: 100%;
+  height: 100%;
+}
+
+body{
+  height: 100vh;
 }
