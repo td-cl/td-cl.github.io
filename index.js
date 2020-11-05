@@ -27,3 +27,4 @@ Array.prototype.forEach.call(document.getElementsByClassName('flip-card'), (flip
       }
     })
   })
+  
